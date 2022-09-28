@@ -138,8 +138,7 @@ function _checkWin()
 {
     if(manPosition.x == GOAL_CELL.x && manPosition.y == GOAL_CELL.y)
     {
-        alert("You are the maze master!");
-        
+        $("#modalWin").style.display = "block"
         newGame();
     }
 }
