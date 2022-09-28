@@ -138,7 +138,7 @@ function _checkWin()
 {
     if(manPosition.x == GOAL_CELL.x && manPosition.y == GOAL_CELL.y)
     {
-        $("#modalWin").style.display = "block"
+        document.getElementById("modalWin").style.display = "block"
         newGame();
     }
 }

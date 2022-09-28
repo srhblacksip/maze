@@ -64,14 +64,14 @@
          cy="436.16916"
          cx="363.65491"
          id="path4142"
-         style="fill:none;fill-opacity:1;stroke:#ff8000;stroke-width:34.70000076;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:34.70000076;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:export-ydpi="21.191048"
          inkscape:export-xdpi="21.191048"
          inkscape:connector-curvature="0"
          id="path5588"
          d="M 366.68537,548.29608 365.67522,323.03207"
-         style="fill:none;fill-rule:evenodd;stroke:#ff8000;stroke-width:34.70000076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:34.70000076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:export-ydpi="21.191048"
          inkscape:export-xdpi="21.191048"
@@ -79,7 +79,7 @@
          inkscape:connector-curvature="0"
          id="path5590"
          d="M 447.24505,395.25797 365.67523,323.78968"
-         style="fill:none;fill-rule:evenodd;stroke:#ff8000;stroke-width:34.70000076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:34.70000076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:export-ydpi="21.191048"
          inkscape:export-xdpi="21.191048"
@@ -87,7 +87,7 @@
          inkscape:connector-curvature="0"
          id="path5592"
          d="m 290.92393,396.77321 74.49875,-72.98353"
-         style="fill:none;fill-rule:evenodd;stroke:#ff8000;stroke-width:34.70000076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:34.70000076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
