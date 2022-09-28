@@ -55,6 +55,12 @@
             }
             
         });
+
+        $(document).on("click", "#modalWin button", function(){
+            alert("click")       
+            parent.document.body.style.backgroundColor = "lightblue";
+        })
+
     </script>
     
     <style>
@@ -121,13 +127,25 @@
             height: 100%;
             top: 0;
             left: 0;
+            background-color: #00000030;
         }
 
         #modalWin button {
             position: absolute;
             top: 50%;
             left: 50%;
-            padding: 15px
+            padding: 15px;
+            transform: translate(-50%, -50%);
+            background-color: #000000;
+            color: #FFFFFF;
+            font-size: 14px;
+            font-weight: bolder;
+            cursor: pointer;
+        }
+
+        #modalWin button:hover {
+            background-color: #FFD400;
+            color: #000000;
         }
 
     </style>
